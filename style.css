@@ -1,0 +1,89 @@
+*{
+  box-sizing: border-box;
+}
+body{
+  font-family: 'Poppins', sans-serif;
+  margin: 0px;
+}
+h1{
+  font-size: 50px;
+}
+.name-highlight{
+  color:orange;
+}
+section{
+  height: 500px;
+  margin-bottom: 30px;
+}
+.half-width{
+  
+  width: 40%;
+  padding-left: 50px;
+  margin-left: 35px;
+  float: left;
+  height: 500px;
+  
+}
+.half-width img{
+  width: 100%;
+  margin-left: 100px;
+  height: 500px;
+  
+}
+.link{
+  text-decoration: none;
+  
+  background-color: orange;
+  color: white;
+  border-radius: 5px;
+  padding: 5px 10px;
+  font-weight: bold;
+  font-size: 20px;
+}
+.second{
+  
+  width: 100%;
+  height: 500px;
+}
+.halfwidth{
+  
+  width: 40%;
+  float: left;
+  padding-left: 50px;
+  margin-left: 35px;
+  height: 500px;
+}
+.halfwidth img{
+  width: 100%;
+  height: 500px;
+  
+}
+.experience-area{
+  /* border: 2px blue dashed; */
+  width: 40%;
+  float: left;
+  padding-left: 50px;
+  margin-left: 35px;
+  
+  
+}
+.simple-experience{
+  box-shadow: 10px 5px 40px gray;
+  height: 250px;
+}
+.yellow{
+  color: orange;
+}
+#first-div{
+  border-left: 7px solid orange;
+}
+#second-div{
+  border-left: 7px solid blue;
+}
+.footer-section{
+  
+  height: 100px!important;
+}
+h5{
+  text-align: center;
+}
